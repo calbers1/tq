@@ -1,0 +1,21 @@
+.introScreen {
+  align-items: center;
+  background-color: $brand-black;
+  display: flex;
+  flex: 1;
+  height: 100vh;
+  justify-content: center;
+  width: 100vw;
+}
+
+.introScreen__logo {
+  width: 50em;
+
+  img {
+	animation: 
+		FadeIn 1.2s ease-in, 
+		Shake 0.1s ease-in 1.4s,
+    	FadeOut 1.2s ease-out 1.8s;
+    animation-iteration-count: 1;
+  }
+}

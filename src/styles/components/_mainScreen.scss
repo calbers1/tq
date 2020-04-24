@@ -1,0 +1,31 @@
+.mainScreen {
+    height: 100vh;
+}
+
+.mainScreen__logo {
+    width: 22rem;
+    align-self: center;
+
+    & img {
+        align-self: center;
+        margin: -5rem;
+    }
+}
+
+.mainScreen__option {
+    margin-top: 1rem;
+}
+
+#jungleVideoMainMenu {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -100;
+}
+
+.massive{
+    opacity: 0.8;
+    width: 100%;
+    }
