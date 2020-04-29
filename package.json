@@ -4,7 +4,7 @@
   "author": "404NotFound",
   "description": "",
   "version": "0.0.1",
-  "homepage": "http://calbers1.github.io/TQ",
+  "homepage": "http://calbers1.github.io/tq",
   "private": true,
   "dependencies": {
     "@babylonjs/core": "^4.1.0",
