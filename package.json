@@ -54,7 +54,7 @@
     "typescript": "^3.7.5"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "npm run build-web",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "test": "react-scripts test",
