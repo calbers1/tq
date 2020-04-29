@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/tq/static/css/main.3da7d685.chunk.css",
+    "main.js": "/tq/static/js/main.ba737546.chunk.js",
+    "main.js.map": "/tq/static/js/main.ba737546.chunk.js.map",
+    "runtime-main.js": "/tq/static/js/runtime-main.19a3db29.js",
+    "runtime-main.js.map": "/tq/static/js/runtime-main.19a3db29.js.map",
+    "static/css/2.ff533707.chunk.css": "/tq/static/css/2.ff533707.chunk.css",
+    "static/js/2.3a7c0ef9.chunk.js": "/tq/static/js/2.3a7c0ef9.chunk.js",
+    "static/js/2.3a7c0ef9.chunk.js.map": "/tq/static/js/2.3a7c0ef9.chunk.js.map",
+    "index.html": "/tq/index.html",
+    "precache-manifest.3699aceb9adf11cbf838123668be0611.js": "/tq/precache-manifest.3699aceb9adf11cbf838123668be0611.js",
+    "service-worker.js": "/tq/service-worker.js",
+    "static/css/2.ff533707.chunk.css.map": "/tq/static/css/2.ff533707.chunk.css.map",
+    "static/css/main.3da7d685.chunk.css.map": "/tq/static/css/main.3da7d685.chunk.css.map",
+    "static/js/2.3a7c0ef9.chunk.js.LICENSE.txt": "/tq/static/js/2.3a7c0ef9.chunk.js.LICENSE.txt",
+    "static/media/CongaSound-4.wav": "/tq/static/media/CongaSound-4.0be119fc.wav",
+    "static/media/JungleMenu.wav": "/tq/static/media/JungleMenu.15246aca.wav",
+    "static/media/TeamLogo.wav": "/tq/static/media/TeamLogo.11261b0d.wav",
+    "static/media/TeamLogo.svg": "/tq/static/media/TeamLogo.a7a0ba22.svg",
+    "static/media/bgvideo.mp4": "/tq/static/media/bgvideo.45731a0f.mp4",
+    "static/media/semantic.min.css": "/tq/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/fail-sound-effect.wav": "/tq/static/media/fail-sound-effect.e734977d.wav",
+    "static/media/game-success.wav": "/tq/static/media/game-success.4f990a22.wav",
+    "static/media/gameLogo.svg": "/tq/static/media/gameLogo.e07aa85e.svg",
+    "static/media/stone-pick.wav": "/tq/static/media/stone-pick.d9b26606.wav",
+    "static/media/stone.wav": "/tq/static/media/stone.1e884880.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19a3db29.js",
+    "static/css/2.ff533707.chunk.css",
+    "static/js/2.3a7c0ef9.chunk.js",
+    "static/css/main.3da7d685.chunk.css",
+    "static/js/main.ba737546.chunk.js"
+  ]
+}
